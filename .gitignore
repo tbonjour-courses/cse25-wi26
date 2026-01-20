@@ -1,0 +1,11 @@
+*-sol.ipynb
+*-draft.ipynb
+*.ipynb_checkpoints
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc
+.env
+.env.*
+.idea/
+*.log
